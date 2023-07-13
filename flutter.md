@@ -13,6 +13,14 @@ Create a Flutter app that allows users to browse and search for books using the 
 6. Add a favorite button to each book item in the list, allowing users to mark books as favorites. Implement local storage (e.g., SharedPreferences) to persist the list of favorite books across app sessions.
 7. Implement proper error handling and loading states for API requests and data retrieval.
 8. Use any state management technique of your choice (e.g., Provider, Riverpod, BLoC) to manage the app's state and handle data fetching and sharing.
+9. The code should be well-organized, commented, and readable.
+10. You should use Git for version control.
+
+## Submission:
+1.Create a Github repository for your code and commit your changes to it.
+2. Build the application and put all all built files in a separate dir named ‘BUILD’ in project root
+3.Share the Github repository link
+
 
 Feel free to use any additional packages or libraries you find useful. Provide the source code of the Flutter app and any necessary instructions to run it.
 
