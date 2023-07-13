@@ -17,9 +17,16 @@ Create a Flutter app that allows users to browse and search for books using the 
 10. You should use Git for version control.
 
 ## Submission:
-1.Create a Github repository for your code and commit your changes to it.
-2. Build the application and put all all built files in a separate dir named ‘BUILD’ in project root
-3.Share the Github repository link
+1. Please create a public GitHub / BitBucket repository for your project.
+2. our repository must have a detailed README.md with instructions on how to set up & run your code locally.
+3. We would like you to present your work no later than 3 days from the day you receive your task.
+
+### The presentation would be done in these steps:
+
+1. Run your code locally
+2. Give us a UI and features walkthrough
+3. Explain your code
+4. Run tests, if any
 
 
 Feel free to use any additional packages or libraries you find useful. Provide the source code of the Flutter app and any necessary instructions to run it.
