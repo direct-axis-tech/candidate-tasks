@@ -18,7 +18,7 @@ Create a Flutter app that allows users to browse and search for books using the 
 
 ## Submission:
 1. Please create a public GitHub / BitBucket repository for your project.
-2. our repository must have a detailed README.md with instructions on how to set up & run your code locally.
+2. Your repository must have a detailed README.md with instructions on how to set up & run your code locally.
 3. We would like you to present your work no later than 3 days from the day you receive your task.
 
 ### The presentation would be done in these steps:
