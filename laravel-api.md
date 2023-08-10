@@ -27,6 +27,11 @@ You are tasked with building a Task Management API using Laravel. The API will a
 
 ## Submission
 
-Please provide a GitHub repository link containing your Laravel project. The repository should include the codebase, migrations, seeders (if needed), and any necessary instructions to set up and run the project.
+1. Create a public GitHub / BitBucket repository for your project.
+
+2. Your repository must have a detailed README.md with instructions on how to set up & run your code locally. Include instructions for database setup, seeding, and running the application.
+
+3. We would like you to present your work no later than 3 days from the day you receive your task.
+
 
 This test aims to assess your ability to set up a Laravel project, design RESTful APIs, work with queues and schedulers, implement validation and error handling, and potentially tackle additional features. Feel free to adapt the task as needed and add more complexity based on your expertise level.
