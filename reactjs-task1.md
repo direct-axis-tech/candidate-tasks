@@ -1,13 +1,13 @@
 # React.js Coding Challenge
 
 ## Problem
-Create a React.js web application with login and register from local storage, that displays a list of products. Build UI from Vite, react-bootstrap and saas for styling
+Create a React.js web application with login and register utilising local storage, that displays a list of products. Build UI from Vite, react-bootstrap and saas for styling
 
 ## Requirements
-1. Login and Register page making use of local storage.
+1. Login and Register page using local storage.
 2. Profile Page with minimum details.
 3. Fetch a list of products from an API endpoint ( fakestoreapi.com ) using axios.
-4. Display the list of products in a grid view, showing the product name, price, rating and an image using react-bootstrap
+4. Display the list of products in a grid view, showing the product name, price, rating and an image.
 5. Implement a filter functionality that allows users to filter products based on categories (e.g., electronics, clothing, books) or any other relevant criteria.
 6. Implement a sorting functionality that allows users to sort products by price (low to high or high to low) or any other relevant criteria.
 7. Include pagination or infinite scrolling to handle large product lists.
