@@ -1,4 +1,4 @@
-# PHP Machine Test - Laravel (For 5+ Years Experienced Candidates)
+# PHP Machine Test - Laravel
 
 ## Objective
 Develop a small Laravel-based API for a "Task Management System" where users can create tasks, assign them, and mark them as completed. This test will evaluate your ability to work with Laravel’s core concepts, including queues, jobs, service containers, dependency injection, scheduling, middleware, and authentication using Sanctum.
