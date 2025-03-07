@@ -6,7 +6,7 @@ Develop a small Laravel-based API for a "Task Management System" where users can
 ---
 
 ## Requirements
-1. **Use Laravel 10+** with PHP 8+
+1. **Use Laravel 11+** with PHP 8.3+
 2. **Use Laravel Sanctum** for authentication
 3. **Implement a Queue & Job** to send task assignment notifications
 4. **Use a Custom Middleware** to log request execution time
